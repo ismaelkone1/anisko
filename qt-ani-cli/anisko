@@ -1,0 +1,2 @@
+#!/bin/sh
+exec python3 /home/ismael/qt-ani-cli/main.py "$@"

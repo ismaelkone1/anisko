@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Anisko
+Comment=Regarder des animés avec ani-cli
+Exec=/home/ismael/.local/bin/anisko
+Icon=/home/ismael/anisko/qt-ani-cli/anisko.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;Video;
+Keywords=anime;ani-cli;anisko;
+StartupWMClass=Anisko
