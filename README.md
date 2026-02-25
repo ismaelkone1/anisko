@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="anisko.png" width="120" alt="Anisko Icon"/>
+  <img src="/qt-ani-cli/anisko.png" width="120" alt="Anisko Icon"/>
   <h1>Anisko</h1>
   <p>Interface graphique Qt pour <strong>ani-cli</strong> — regardez vos animés sans quitter le confort d'une vraie app.</p>
 </div>
